@@ -17,13 +17,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
@@ -43,6 +47,9 @@
 </div>
 
 ###
+
+<p align="left">Certifications:<br>- IBM Data Science Professional Certificate<br>- Microsoft Python Programming</p>
+
 
 <p align="left">📂 Projects : <br>- PEAR Internships – Full-stack internship management platform with student/company dashboards and secure MySQL backend.  <br>- Weather Data Analysis – Time-series forecasting on 10.4k+ records using ARIMA, with interactive Dash visualizations.  <br>- STRATIFY – Strategic planning & performance management system with KPI tracking, PESTEL analysis, and sustainability focus.</p>
 
