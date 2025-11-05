@@ -48,16 +48,6 @@
 
 ###
 
-<p align="left">Certifications:<br>- IBM Data Science Professional Certificate<br>- Microsoft Python Programming</p>
-
-
-<p align="left">📂 Projects: <br>- PEAR Internships – Full-stack internship management platform with student/company dashboards and secure MySQL backend.  
-  <br>- Bug Triage Predictor –  NLP-powered bug triage system using Python (Scikit-learn, LightGBM) with a Flask API and Streamlit UI.  
-  <br>- Weather Data Analysis – Time-series forecasting on 10.4k+ records using ARIMA, with interactive Dash visualizations.  
-  <br>- STRATIFY – Strategic planning & performance management system with KPI tracking, PESTEL analysis, and sustainability focus.</p>
-
-###
-
 <p align="left">🌍 Connect with Me<br>- LinkedIn- https://www.linkedin.com/in/marwa-khot-238482353/  <br>- 📧 Reach me at: marwakhot007@gmail.com</p>
 
 ###
