@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">🎓 CS student majoring in <b>AI & Big Data at UOWD</b><br>
-  💡 Passionate about machine learning, data-driven solutions, and building impactful projects.<br>
-  🌱 Currently exploring: Machine learning & Statistics</p>
+<p align="left">I’m a second-year CS student at UOWD specializing in AI and Big Data, currently working as a Data Science intern at Alamar Foods. I love turning ideas into results and Always eager to learn and build new things!</p>
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -48,6 +46,6 @@
 
 ###
 
-<p align="left">🌍 Connect with Me<br>- LinkedIn- https://www.linkedin.com/in/marwa-khot-238482353/  <br>- 📧 Reach me at: marwakhot007@gmail.com</p>
+<p align="left"> Reach em out on:<br>- LinkedIn- https://www.linkedin.com/in/marwa-khot-238482353/  <br>- 📧 Reach me at: marwakhot007@gmail.com</p>
 
 ###
