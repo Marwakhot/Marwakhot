@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a second-year CS student at UOWD specializing in AI and Big Data, currently working as a Data Science intern at Alamar Foods. I love turning ideas into results and Always eager to learn and build new things!</p>
+<p align="left">I’m a second-year CS student at UOWD specializing in AI and Big Data, I love turning ideas into results and Always eager to learn and build new things!</p>
 
 ###
 
