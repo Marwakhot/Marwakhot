@@ -1,6 +1,6 @@
 # Marwa Khot
 
-🤖 **AI Developer** | 🎓 Final-year **Computer Science student @ UOWD**
+🤖 **AI Developer** @ StudentVerse | 🎓 Final-year **Computer Science student @ UOWD**
 
 📍 Dubai, UAE
 
